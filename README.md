@@ -26,4 +26,8 @@ The project is designed for stakeholders including **policy makers**, **automoti
 │ └── your-uploaded-dataset.csv (or dataset.zip/gz file)
 └── README.md
 
-[EV Dashboard Screenshot]("E:\Power bi ev vehicle dashboard\Electric vehicle dashboard screenshot.png")
+## Visualizations
+
+Here are some screenshots of the Power BI dashboard visuals:
+
+[EV Dashboard Screenshot](https://github.com/PRAVEEN5432114/Electric-vehicle-market-analysis/blob/main/Electric%20vehicle%20dashboard%20screenshot.png)
