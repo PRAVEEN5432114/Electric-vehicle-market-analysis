@@ -20,11 +20,11 @@ The project is designed for stakeholders including **policy makers**, **automoti
 
 ## Project Structure
 
-├── Dashboard/
-│ └── Electric_Vehicle_Market_Analysis.pbix (Power BI report)
-├── dataset/
-│ └── your-uploaded-dataset.csv (or dataset.zip/gz file)
-└── README.md
+-├── Dashboard/
+-│ └── Electric_Vehicle_Market_Analysis.pbix (Power BI report)
+-├── dataset/
+-│ └── your-uploaded-dataset.csv (or dataset.zip/gz file)
+-└── README.md
 
 ## Visualizations
 
